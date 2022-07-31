@@ -1,0 +1,9 @@
+C:\Users\Win10\source\repos\WindowsFormsApp4\WindowsFormsApp4\obj\Release\WindowsFormsApp4.Form1.resources
+C:\Users\Win10\source\repos\WindowsFormsApp4\WindowsFormsApp4\obj\Release\WindowsFormsApp4.Properties.Resources.resources
+C:\Users\Win10\source\repos\WindowsFormsApp4\WindowsFormsApp4\obj\Release\WindowsFormsApp4.csproj.GenerateResource.cache
+C:\Users\Win10\source\repos\WindowsFormsApp4\WindowsFormsApp4\obj\Release\WindowsFormsApp4.csproj.CoreCompileInputs.cache
+C:\Users\Win10\source\repos\WindowsFormsApp4\WindowsFormsApp4\bin\Release\SAMgui.exe.config
+C:\Users\Win10\source\repos\WindowsFormsApp4\WindowsFormsApp4\bin\Release\SAMgui.exe
+C:\Users\Win10\source\repos\WindowsFormsApp4\WindowsFormsApp4\bin\Release\SAMgui.pdb
+C:\Users\Win10\source\repos\WindowsFormsApp4\WindowsFormsApp4\obj\Release\SAMgui.exe
+C:\Users\Win10\source\repos\WindowsFormsApp4\WindowsFormsApp4\obj\Release\SAMgui.pdb
