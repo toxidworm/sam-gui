@@ -1,5 +1,5 @@
 # sam-gui
-GUI For SAM (https://github.com/s-macke/SAM)
+Simple GUI For SAM (https://github.com/s-macke/SAM)
 Features:
 - No longer console commands (not all function added bc i will add they soon)
 - Simple gui
